@@ -6,8 +6,11 @@ html, body, #root {
     margin: 0;
 }
 
+/* Image by <a href="https://www.freepik.com/free-vector/flat-design-monsoon-season-clouds-illustration_26922266.htm#query=weather%20background&position=0&from_view=keyword&track=ais&uuid=fae609dd-24ca-44d8-97d1-fa16b5a0c8c6">Freepik</a> */
+
 .main-container {
-    background: linear-gradient( rgba(0, 0, 0, 0.3), rgba(0, 0, 0, 0.418) ), url('https://hdwallpaper20.com/wp-content/uploads/2017/07/wallpaper-wp4001752.jpg');
+    background: linear-gradient( rgba(0, 0, 0, 0.3), rgba(0, 0, 0, 0.418) ), 
+    url('../public/images/bg.jpeg');
     background-size: cover;
     background-position: center;
 }
